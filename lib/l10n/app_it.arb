@@ -1,0 +1,10 @@
+{
+    "nameApp" : "World Beers TEST",
+    "nameBeer" : "Nome",
+    "abv" : "ABV",
+    "ibu" : "IBU",
+    "description" : "Descrizione",
+    "firstBrewed" : "Prodotta il",
+    "brewersTips" : "Consigli",
+    "foodPairing" : "Cibi"
+}
